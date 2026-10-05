@@ -1,0 +1,13 @@
+/* Top navigation bar: full-width dark strip */
+.top-nav { width: 100%; background-color: #131921; color: #fff; }
+
+.top-nav-inner { height: 60px; overflow: hidden; }
+
+.nav-right { float: right; width: 400px; text-align: right; line-height: 60px; }
+
+/* Logo block */
+.logo { float: left; width: 120px; line-height: 60px; font-size: 24px; font-weight: bold; }
+
+/* Search area */
+.search-area { float: left; width: 600px; margin: 12px 20px 0 20px; }
+
