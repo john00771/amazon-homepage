@@ -73,7 +73,7 @@ a {
   margin: 0 auto;
 }
 
-/* sub bar*/
+/* sub bar */
 .sub-nav {
   width: 100%;
   background-color: rgb(1, 1, 62);
@@ -93,4 +93,33 @@ a {
 .sub-nav-left li {
   display: inline-block;
   margin-right: 15px;
+}
+
+/* top card */
+.top-card-section {
+  padding: 20px 0;
+}
+
+.top-card {
+  float: left;
+  width: 200px;
+  border: 1px solid grey;
+  margin-right: 20px;
+  background-color: white;
+}
+
+.top-card img {
+  width: 100%;
+  display: block;
+}
+
+/* top card text */
+.top-card h3,
+.top-card p {
+  padding: 5px 10px;
+}
+
+/* last top card (ai fix) */
+.top-card.last {
+  margin-right: 0;
 }
