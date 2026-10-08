@@ -207,3 +207,22 @@ a {
   color: blue;
   text-decoration: underline;
 }
+
+/* back to top bar*/
+.back-to-top {
+  width: 100%;
+  background-color: DarkGray;
+  color: white;
+  text-align: center;
+}
+
+/* Back to top link */
+.back-to-top a {
+  display: block;
+  padding: 15px 0;
+  color: white;
+}
+
+.back-to-top a:hover {
+  background-color: DarkGray;
+}
