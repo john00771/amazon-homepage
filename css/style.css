@@ -226,3 +226,45 @@ a {
 .back-to-top a:hover {
   background-color: DarkGray;
 }
+
+/* Footer */
+.footer {
+  width: 100%;
+  background-color: black;
+  color: white;
+  padding: 30px 0;
+}
+
+.footer-container {
+  overflow: hidden;
+}
+
+.footer-col {
+  float: left;
+  width: 300px;
+}
+
+.footer-col h4 {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.footer-col li {
+  margin-bottom: 8px;
+}
+
+.footer-col a {
+  color: white;
+}
+
+.footer-col a:hover {
+  text-decoration: underline;
+}
+
+.footer-bottom {
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+}
